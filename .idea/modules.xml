@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Grabbify.iml" filepath="$PROJECT_DIR$/.idea/Grabbify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Grabbify_desktop.iml" filepath="$PROJECT_DIR$/.idea/Grabbify_desktop.iml" />
     </modules>
   </component>
 </project>
